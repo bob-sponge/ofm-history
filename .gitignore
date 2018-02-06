@@ -7,6 +7,6 @@ lib/
 coverage
 docs/_book
 yarn-error.log
-
 index.js
 mock.js
+!/src/*
