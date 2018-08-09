@@ -1,6 +1,6 @@
 {
   "name": "@siesam/history",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "wapper history for react-route-v4",
   "main": "index.js",
   "typings": "types/index.d.ts",
@@ -21,7 +21,7 @@
   "author": "wangtao0101",
   "license": "MIT",
   "dependencies": {
-    "@types/history": "^4.6.2",
+    "@types/history": "^4.7.0",
     "babel-eslint": "^8.2.1",
     "babel-plugin-transform-runtime": "^6.23.0",
     "babel-preset-es2015": "^6.24.1",
