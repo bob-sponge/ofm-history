@@ -1,6 +1,6 @@
 {
-  "name": "@siesam/history",
-  "version": "0.0.4",
+  "name": "@ofm/history",
+  "version": "1.0.0",
   "description": "wapper history for react-route-v4",
   "main": "index.js",
   "typings": "types/index.d.ts",
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://10.192.30.127/gitlab/siesam-web/history.git"
+    "url": "git+https://github.com/siemens-ofm/ofm-history.git"
   },
   "keywords": [
     "history",
