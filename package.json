@@ -1,6 +1,6 @@
 {
   "name": "@ofm/history",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "wapper history for react-route-v4",
   "main": "index.js",
   "typings": "types/index.d.ts",
