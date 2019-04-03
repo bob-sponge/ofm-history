@@ -1,9 +1,9 @@
-import createHistory from 'history/createBrowserHistory';
+import { createBrowserHistory } from 'history';
 
-let history = createHistory(); // eslint-disable-line
+let history = createBrowserHistory(); // eslint-disable-line
 
 function resetHistory(props) {
-    history = createHistory(props);
+    history = createBrowserHistory(props);
     return history;
 }
 
